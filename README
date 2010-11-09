@@ -1,0 +1,13 @@
+Just a plain tetris game run in browser
+
+It's written in javascript using canvas element.
+
+Control:
+
+k        - move shape to the left
+l        - move shape to the right
+spacebar - rotate the shape
+
+There is still a lot of bugs here)
+
+Dmitrii Samoilov
